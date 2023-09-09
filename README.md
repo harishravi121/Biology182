@@ -2,4 +2,4 @@
 Python based fun biology codes
 
 
-Computes Hydrocarbon and DNA molecular weights on a loop basis for recreation
+Computes Hydrocarbon and DNA molecular weights of different lengths on a loop basis for recreation
